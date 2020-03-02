@@ -1,0 +1,13 @@
+Menu
+
+attributes
+title (string)
+color (string)
+items (array)
+isOpen (boolean)
+
+Methods
+changeTitle (changes title attribute)
+changeColor (changes author attribute)
+addSpecial (adds items to the items array)
+open (changes isOpen to true)
