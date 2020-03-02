@@ -24,7 +24,7 @@ divide num7 by num2 and store the result in a variable called quotient
 var quotient = num7 / num 2
 
 Assign a variable called songs to an array of strings
-var songs = "you're not good enough", "it is what it is", "to build a home"
+var songs = []"you're not good enough", "it is what it is", "to build a home"]
 
 You may use google for the following two:
 Write a line of code that removes the first element from the songs array
