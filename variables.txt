@@ -1,0 +1,35 @@
+Assign a variable called food a string value of your choosing
+
+var food = "pad thai, spring rolls, curry"
+
+Assign a variable called is_delicious to a boolean value
+
+var is_delicious = True
+
+
+Re-assign your food variable to a new string
+
+var food = "pizza, spinach, tomatoes"
+
+Assign a variable called num2 to a numerical value
+
+var num2 = 2
+
+Assign a variable called num7 to a different numerical value
+
+var num7 = 7
+
+divide num7 by num2 and store the result in a variable called quotient
+
+var quotient = num7 / num 2
+
+Assign a variable called songs to an array of strings
+var songs = "you're not good enough", "it is what it is", "to build a home"
+
+You may use google for the following two:
+Write a line of code that removes the first element from the songs array
+
+songs.shift();
+
+Write a line of code that asks how many characters there are in the food string
+foods.length;
