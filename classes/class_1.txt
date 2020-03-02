@@ -1,0 +1,14 @@
+glass
+
+attributes
+currentCapacity (integer)
+"color" (string)
+totalCapacity (integer)
+contents (array)
+recyclable (boolean)
+
+Methods
+calculatePercentFull (uses currentCapacity and totalCapacity attributes)
+changeColor (modifies "color" attribute)
+empty (modifies the contents  and currentCapacity attribute)
+recycle (modifies the recyclable attribute to True)
