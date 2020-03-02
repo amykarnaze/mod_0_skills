@@ -1,0 +1,15 @@
+libby glass 100100
+
+
+attributes
+currentCapacity 6.0
+color "blue"
+totalCapacity 12
+contents ["water", "ice", "lemon", "bitters"]
+recyclable yes
+
+Methods
+calculatePercentFull = 6.0 /12 = .5
+color = "red"
+empty, contents = []
+recycle = yes
