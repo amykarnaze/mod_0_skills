@@ -1,20 +1,20 @@
-rocksGlass
+RocksGlass
 
 attributes
-currentCapacity (float)
+CurrentCapacity (float)
 "color" (string)
-totalCapacity (integer)
+TotalCapacity (integer)
 contents (array)
 recyclable (boolean)
 
 ice (boolean)
-addStraw (boolean)
+AddStraw (boolean)
 
 Methods
-calculatePercentFull (divides currentCapacity by totalCapacity)
-changeColor (modifies "color" attribute)
-empty (modifies the contents  and currentCapacity attribute)
+CalculatePercentFull (divides CurrentCapacity by TotalCapacity)
+ChangeColor (modifies "color" attribute)
+empty (modifies the contents  and CurrentCapacity attribute)
 recycle (modifies the recyclable attribute to True)
 
-addIce (modifies ice attribute to true and modifies the contents array)
-useStraw (modifies straw attribute to true and modifies contents array)
+AddIce (modifies ice attribute to true and modifies the contents array)
+UseStraw (modifies straw attribute to true and modifies contents array)
