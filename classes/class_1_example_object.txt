@@ -1,4 +1,4 @@
-libby glass 100100
+libbyGlass100100
 
 
 attributes
@@ -6,10 +6,16 @@ currentCapacity 6.0
 color "blue"
 totalCapacity 12
 contents ["water", "ice", "lemon", "bitters"]
-recyclable yes
+recyclable = true
+
+addStraw: true
+ice: true
 
 Methods
 calculatePercentFull = 6.0 /12 = .5
-color = "red"
-empty, contents = []
+changeColor: color = "red"
+contents ["water", "lemon", "bitters", "ice", "straw"]
 recycle = yes
+
+addStraw: straw = true
+addIce: ice = true
