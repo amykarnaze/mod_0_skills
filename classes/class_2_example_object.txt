@@ -1,17 +1,17 @@
-forestRoom5DrinkMenu
+ForestRoom5DrinkMenu
 attributes
 title: "Forest room 5 drink menu"
 color: white
 open: true
 
 pictures: [bear, mountain, campfire]
-menuSpecial: true
+MenuSpecial: true
 
 
 Methods
-changeTitle: title = "Forest room 5 food menu"
-changePaperColor: color = "brown"
-isOpen: open = true
+ChangeTitle: title = "Forest room 5 food menu"
+ChangePaperColor: color = "brown"
+IsOpen: open = true
 
-addPicture: picture = [bear, mountain, campfire, trees]
-addSpecial: menuSpecial = true
+AddPicture: picture = [bear, mountain, campfire, trees]
+AddSpecial: MenuSpecial = true
