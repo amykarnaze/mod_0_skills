@@ -1,13 +1,17 @@
-Menu
+menu
 
 attributes
 title (string)
 color (string)
-items (array)
 isOpen (boolean)
+
+pictures (array)
+menuSpecial (boolean)
 
 Methods
 changeTitle (changes title attribute)
 changeColor (changes author attribute)
-addSpecial (adds items to the items array)
-open (changes isOpen to true)
+isOpen (changes isOpen to true)
+
+addPicture (modifies pictures array)
+addSpecial (changes menu-Special to true)
