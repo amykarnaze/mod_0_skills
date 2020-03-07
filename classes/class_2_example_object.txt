@@ -1,12 +1,17 @@
-Forest room 5 drink Menu
+forestRoom5DrinkMenu
 attributes
 title: "Forest room 5 drink menu"
 color: white
-items: ["huckelberry lynx", "labatt blue", "bear heaven"]
-isOpen: true
+open: true
+
+pictures: [bear, mountain, campfire]
+menuSpecial: true
+
 
 Methods
 changeTitle: title = "Forest room 5 food menu"
-changeColor: color = "brown"
-addSpecial: ["huckelberry", "labatt blue", "bear heaven", "sausage and kale soup"]
-close: is true= false
+changePaperColor: color = "brown"
+isOpen: open = true
+
+addPicture: picture = [bear, mountain, campfire, trees]
+addSpecial: menuSpecial = true
